@@ -1,3 +1,9 @@
 # Spring JPA + Redis (on Mac)
 
-![Image](./image/pic1_50.png){: width="100px" height="20px"}
+#### redis 설치
+![redis_install](./image/redis_install.png)
+
+<hr/>
+
+#### redis 실행 테스트
+![redis test](./image/redis_test.png)
